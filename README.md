@@ -9,4 +9,6 @@
 </li>
 
 
-<img src="https://github.com/teddybounds/DRAKE/blob/a62da2a845a07ff1adc7f90bad90568c3dc22ff1/SLIP.jpg">
+<img src="https://github.com/teddybounds/DRAKE/blob/0d5ab06e089043e8d01fe0c83d657a18ce253030/SLIP.jpg">
+
+
